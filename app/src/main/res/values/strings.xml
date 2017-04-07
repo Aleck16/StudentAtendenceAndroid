@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentAtendence</string>
+
+    <string-array name="tab_names">
+        <item>签到</item>
+        <!--<item>详情</item>-->
+        <item>历史</item>
+    </string-array>
+
+</resources>
